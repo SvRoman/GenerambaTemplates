@@ -9,7 +9,6 @@ license: "MIT"
 
 code_files:
 
-
 - {name: ViewController.swift,  path: Code/viewController.swift.liquid}
 - {name: ViewModel.swift,  path: Code/viewModel.swift.liquid}
 - {name: Router.swift,  path: Code/router.swift.liquid}
@@ -19,5 +18,5 @@ code_files:
 test_files:
 
 # ViewModel tests
-- {name: ViewModelTests.swift, path: Tests/ViewModel_tests.swift.liquid}
+# - {name: ViewModelTests.swift, path: Tests/ViewModel_tests.swift.liquid}
 
